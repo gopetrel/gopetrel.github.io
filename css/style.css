@@ -161,7 +161,7 @@ footer.site{background:var(--dark);color:rgba(255,255,255,.72);padding:64px 0 30
 footer.site .cols{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:34px}
 @media(max-width:880px){footer.site .cols{grid-template-columns:1fr 1fr}}
 @media(max-width:560px){footer.site .cols{grid-template-columns:1fr}}
-footer.site h4{color:#fff;font-size:14.6px;margin:0 0 14px;letter-spacing:.01em}
+footer.site h4,footer.site .ft-h{color:#fff;font-size:14.6px;margin:0 0 14px;letter-spacing:.01em;font-weight:750;line-height:1.14}
 footer.site a{color:rgba(255,255,255,.72);display:block;padding:5px 0}
 footer.site a:hover{color:#fff}
 footer.site .brandrow{display:flex;align-items:center;gap:10px;color:#fff;font-weight:800;font-size:17px;margin-bottom:12px}
@@ -259,7 +259,7 @@ form.rfq input:focus,form.rfq select:focus,form.rfq textarea:focus{outline:2px s
 
 /* ---- related reading ---- */
 .relread{border-top:1px solid var(--line);margin-top:46px;padding-top:26px}
-.relread h4{font-size:12.6px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:0 0 14px}
+.relread h4,.relread .relread-h{font-size:12.6px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:0 0 14px;font-weight:750;line-height:1.14}
 .relread ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:10px 26px}
 @media(max-width:660px){.relread ul{grid-template-columns:1fr}}
 .relread li{display:flex;gap:9px;align-items:flex-start;font-size:15px}
