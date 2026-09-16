@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://gopetrel.github.io/sitemap.xml

@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Page not found | Gopetrel Precision</title>
-<meta name="description" content="Page not found.">
-<link rel="canonical" href="https://gopetrel.github.io/404.html">
+<title>Request a Quote | Gopetrel Precision</title>
+<meta name="description" content="Request a CNC machining quote: send the CAD file, material, quantity and tolerances and receive a manufacturability note and price.">
+<link rel="canonical" href="https://gopetrel.github.io/quote.html">
 <meta name="theme-color" content="#C2410C">
-<meta property="og:title" content="Page not found | Gopetrel Precision"><meta property="og:description" content="Page not found.">
+<meta property="og:title" content="Request a Quote | Gopetrel Precision"><meta property="og:description" content="Request a CNC machining quote: send the CAD file, material, quantity and tolerances and receive a manufacturability note and price.">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Gopetrel Precision">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -24,14 +24,30 @@
 <div class="glow"></div>
 <div class="wrap">
 <div class="hero-2"><div>
-<span class="eyebrow">404</span>
-<h1>That page is not here</h1>
-<p class="lead">It may have moved, or the link may be out of date.</p>
-<div class="hero-cta"><a class="btn lg" href="index.html">Back to home</a></div>
+<span class="eyebrow">Request a quote</span>
+<h1>Send a part for quoting</h1>
+<p class="lead">The CAD file, the material, the quantity and the tolerances that matter are enough to start. You get back a manufacturability note and a price.</p>
+<div class="hero-cta"></div>
 </div><div></div></div>
 
 </div></div>
-<main><section class="tight"><div class="wrap"><p class="lead">Try the <a href="capabilities.html">capabilities overview</a> or <a href="quote.html">request a quote</a>.</p></div></section></main>
+<main><section class="tight"><div class="wrap">
+<form class="rfq rv" data-mailto="seo@gugilamp.com" data-subject="Quote request - CNC part">
+<div><label>Name *</label><input name="name" required></div>
+<div><label>Company</label><input name="company"></div>
+<div><label>Email *</label><input type="email" name="email" required></div>
+<div><label>Process</label><select name="process"><option>Not sure - advise me</option><option>CNC milling</option><option>CNC turning</option><option>5-axis machining</option><option>Wire / sinker EDM</option><option>Sheet metal fabrication</option><option>Surface finishing</option></select></div>
+<div><label>Material</label><input name="material" placeholder="e.g. 6061-T6 aluminium, 304 stainless"></div>
+<div><label>Quantity</label><input name="quantity" placeholder="e.g. 25"></div>
+<div class="full"><label>Part description and critical tolerances</label><textarea name="part" rows="4" placeholder="What the part does, which dimensions are critical, and the finish required."></textarea></div>
+<div class="full"><label>Tolerance and finish notes</label><input name="tolerance" placeholder="e.g. +/- 0.05 general, +/- 0.01 on the bore, anodised"></div>
+<div class="full"><label>CAD file</label><input name="cad" placeholder="Attach the STEP/IGES file to the email this form opens, or paste a download link"></div>
+<div><label>Required by</label><input name="deadline"></div>
+<div><label>Shipping destination</label><input name="destination"></div>
+<div class="full"><button class="btn lg" type="submit">Send request <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button></div>
+</form>
+<div class="note" style="margin-top:26px">This form opens your email client with the details filled in — attach the CAD file to that email. Quotes are returned within one business day. Quoted tolerances are confirmed against the drawing before the job starts.</div>
+</div></section></main>
 <footer class="site"><div class="wrap">
 <div class="cols">
 <div>
