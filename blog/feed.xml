@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Gopetrel Precision - Engineering Notes</title>
+<link>https://gopetrel.github.io/</link>
+<description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
+<language>en</language>
+<lastBuildDate>Wed, 16 Sep 2026 13:54:34 GMT</lastBuildDate>
+<atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[First Article Inspection: What to Expect and Why It Pays]]></title>
+<link>https://gopetrel.github.io/blog/first-article-inspection-what-to-expect.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/first-article-inspection-what-to-expect.html</guid>
+<pubDate>Wed, 16 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Quality & inspection]]></category>
+<description><![CDATA[What an FAI actually verifies, what to send with it, and how to read the report when dimensions miss.]]></description>
+</item>
+<item>
+<title><![CDATA[Surface Finish Ra Values Explained]]></title>
+<link>https://gopetrel.github.io/blog/surface-finish-ra-values-explained.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/surface-finish-ra-values-explained.html</guid>
+<pubDate>Tue, 15 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Materials & finishes]]></category>
+<description><![CDATA[What Ra actually measures, which values are realistic from which process, and when a finish spec is wasted.]]></description>
+</item>
+<item>
+<title><![CDATA[How to Read a CNC Quote (and Compare Two of Them)]]></title>
+<link>https://gopetrel.github.io/blog/reading-a-cnc-quote.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/reading-a-cnc-quote.html</guid>
+<pubDate>Mon, 14 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Sourcing & lead time]]></category>
+<description><![CDATA[What a machining quote is actually telling you, and how to compare quotes that look different.]]></description>
+</item>
+<item>
+<title><![CDATA[A DFM Checklist to Run Before You Order Parts]]></title>
+<link>https://gopetrel.github.io/blog/dfm-checklist-before-ordering-parts.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/dfm-checklist-before-ordering-parts.html</guid>
+<pubDate>Fri, 11 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[Twelve checks that catch most manufacturability problems before they reach the machine shop.]]></description>
+</item>
+<item>
+<title><![CDATA[Choosing a Finish for Machined Hardware]]></title>
+<link>https://gopetrel.github.io/blog/choosing-a-metal-finish.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/choosing-a-metal-finish.html</guid>
+<pubDate>Wed, 09 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Materials & finishes]]></category>
+<description><![CDATA[Corrosion, wear, appearance and cost: how to pick a finish for machined metal components.]]></description>
+</item>
+<item>
+<title><![CDATA[Laser Welding for Sheet-Metal Assemblies]]></title>
+<link>https://gopetrel.github.io/blog/laser-welding-sheet-metal-assemblies.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/laser-welding-sheet-metal-assemblies.html</guid>
+<pubDate>Mon, 07 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[When laser welding beats TIG or spot welding on a sheet-metal assembly, and what to design for.]]></description>
+</item>
+<item>
+<title><![CDATA[CNC or Injection Moulding? Finding the Crossover]]></title>
+<link>https://gopetrel.github.io/blog/cnc-or-injection-moulding-crossover.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/cnc-or-injection-moulding-crossover.html</guid>
+<pubDate>Fri, 04 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[Volume, geometry and material decide whether machining or moulding is the better route for a plastic part.]]></description>
+</item>
+<item>
+<title><![CDATA[How to Set Machining Tolerances Without Overpaying]]></title>
+<link>https://gopetrel.github.io/blog/how-to-set-machining-tolerances.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/how-to-set-machining-tolerances.html</guid>
+<pubDate>Wed, 02 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[Set tolerances feature by feature so you only pay for the precision the part actually needs.]]></description>
+</item>
+</channel>
+</rss>
