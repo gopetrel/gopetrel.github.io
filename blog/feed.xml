@@ -5,8 +5,16 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Thu, 17 Sep 2026 11:43:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 03:49:31 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[Fastener and Fitting Selection for Machined Assemblies]]></title>
+<link>https://gopetrel.github.io/blog/fastener-and-fitting-selection.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/fastener-and-fitting-selection.html</guid>
+<pubDate>Fri, 18 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[Threads, inserts, clearance fits and standard versus custom fittings: how to specify the joints that hold a machined assembly together.]]></description>
+</item>
 <item>
 <title><![CDATA[First Article Inspection: What to Expect and Why It Pays]]></title>
 <link>https://gopetrel.github.io/blog/first-article-inspection-what-to-expect.html</link>

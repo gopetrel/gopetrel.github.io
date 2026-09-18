@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://gopetrel.github.io/about.html</loc><lastmod>2026-09-17</lastmod><priority>0.8</priority></url>
-  <url><loc>https://gopetrel.github.io/blog/category-design.html</loc><lastmod>2026-09-16</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/blog/category-materials.html</loc><lastmod>2026-09-16</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/blog/category-process.html</loc><lastmod>2026-09-16</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/blog/category-quality.html</loc><lastmod>2026-09-16</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/blog/category-sourcing.html</loc><lastmod>2026-09-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/about.html</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/category-design.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/category-materials.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/category-process.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/category-quality.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/category-sourcing.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/choosing-a-metal-finish.html</loc><lastmod>2026-09-09</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/cnc-or-injection-moulding-crossover.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/dfm-checklist-before-ordering-parts.html</loc><lastmod>2026-09-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/fastener-and-fitting-selection.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/first-article-inspection-what-to-expect.html</loc><lastmod>2026-09-16</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/how-to-set-machining-tolerances.html</loc><lastmod>2026-09-02</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/blog/index.html</loc><lastmod>2026-09-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/index.html</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://gopetrel.github.io/blog/laser-welding-sheet-metal-assemblies.html</loc><lastmod>2026-09-07</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/reading-a-cnc-quote.html</loc><lastmod>2026-09-14</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/surface-finish-ra-values-explained.html</loc><lastmod>2026-09-15</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/capabilities.html</loc><lastmod>2026-09-17</lastmod><priority>0.8</priority></url>
-  <url><loc>https://gopetrel.github.io/cnc-milling.html</loc><lastmod>2026-09-17</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/cnc-turning.html</loc><lastmod>2026-09-17</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/credits.html</loc><lastmod>2026-09-17</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/edm.html</loc><lastmod>2026-09-17</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/five-axis-machining.html</loc><lastmod>2026-09-17</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/</loc><lastmod>2026-09-17</lastmod><priority>1.0</priority></url>
-  <url><loc>https://gopetrel.github.io/industries.html</loc><lastmod>2026-09-17</lastmod><priority>0.8</priority></url>
-  <url><loc>https://gopetrel.github.io/materials-tolerances.html</loc><lastmod>2026-09-17</lastmod><priority>0.8</priority></url>
-  <url><loc>https://gopetrel.github.io/quality.html</loc><lastmod>2026-09-17</lastmod><priority>0.8</priority></url>
-  <url><loc>https://gopetrel.github.io/quote.html</loc><lastmod>2026-09-17</lastmod><priority>0.8</priority></url>
-  <url><loc>https://gopetrel.github.io/sheet-metal-fabrication.html</loc><lastmod>2026-09-17</lastmod><priority>0.6</priority></url>
-  <url><loc>https://gopetrel.github.io/surface-finishing.html</loc><lastmod>2026-09-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/capabilities.html</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/cnc-milling.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/cnc-turning.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/credits.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/edm.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/five-axis-machining.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/</loc><lastmod>2026-09-18</lastmod><priority>1.0</priority></url>
+  <url><loc>https://gopetrel.github.io/industries.html</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/materials-tolerances.html</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/quality.html</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/quote.html</loc><lastmod>2026-09-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/sheet-metal-fabrication.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/surface-finishing.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
 </urlset>
