@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sat, 19 Sep 2026 07:16:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:11:18 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Handheld vs Robotic Laser Welding: Which One Should Your Shop Buy?]]></title>
@@ -46,6 +46,38 @@
 <pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Sourcing & lead time]]></category>
 <description><![CDATA[The design that worked as a prototype is not automatically the design that ships. What changes at volume, and which decisions should be made before tooling.]]></description>
+</item>
+<item>
+<title><![CDATA[Choosing an Aluminium Alloy for Machined Parts]]></title>
+<link>https://gopetrel.github.io/blog/aluminium-alloys-for-cnc-parts.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/aluminium-alloys-for-cnc-parts.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Materials & finishes]]></category>
+<description><![CDATA[6061, 6082 and 7075 machine, anodise and distort differently. How to match the alloy and its temper to the part, the finish and the tolerance it needs.]]></description>
+</item>
+<item>
+<title><![CDATA[CNC Machining or Casting? Choosing the Route for a Metal Part]]></title>
+<link>https://gopetrel.github.io/blog/cnc-machining-vs-casting.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/cnc-machining-vs-casting.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[Machining and casting trade tooling cost against per-part cost, and differ in tolerance, surface and material behaviour. How to pick the route for a metal part.]]></description>
+</item>
+<item>
+<title><![CDATA[Workholding and Fixturing: Holding a Part Without Distorting It]]></title>
+<link>https://gopetrel.github.io/blog/workholding-and-fixturing.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/workholding-and-fixturing.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[How a part is held decides whether it can be machined accurately. Fixture design, clamping force, datum choice, and the distortion that only appears after the clamps are released.]]></description>
+</item>
+<item>
+<title><![CDATA[Laser Cutting or Plasma Cutting? Choosing for Sheet Metal]]></title>
+<link>https://gopetrel.github.io/blog/laser-cutting-vs-plasma-cutting.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/laser-cutting-vs-plasma-cutting.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[Cut-edge quality, kerf, thickness window and cost per part decide between laser, plasma and waterjet. How to pick the process for a sheet metal part.]]></description>
 </item>
 <item>
 <title><![CDATA[Fastener and Fitting Selection for Machined Assemblies]]></title>

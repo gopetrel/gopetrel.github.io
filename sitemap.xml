@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://gopetrel.github.io/about.html</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/aluminium-alloys-for-cnc-parts.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/category-design.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/category-materials.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/category-process.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/category-quality.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/category-sourcing.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/choosing-a-metal-finish.html</loc><lastmod>2026-09-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/cnc-machining-vs-casting.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/cnc-or-injection-moulding-crossover.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/designing-for-tool-access.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/dfm-checklist-before-ordering-parts.html</loc><lastmod>2026-09-11</lastmod><priority>0.6</priority></url>
@@ -16,12 +18,14 @@
   <url><loc>https://gopetrel.github.io/blog/heat-treatment-and-hardness.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/how-to-set-machining-tolerances.html</loc><lastmod>2026-09-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/index.html</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/laser-cutting-vs-plasma-cutting.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/laser-welding-sheet-metal-assemblies.html</loc><lastmod>2026-09-07</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/planning-robotic-laser-welding-cell.html</loc><lastmod>2026-09-18</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/prototype-to-production.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/reading-a-cnc-quote.html</loc><lastmod>2026-09-14</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/surface-finish-ra-values-explained.html</loc><lastmod>2026-09-15</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/blog/thread-production-methods.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://gopetrel.github.io/blog/workholding-and-fixturing.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/capabilities.html</loc><lastmod>2026-09-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://gopetrel.github.io/cnc-milling.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
   <url><loc>https://gopetrel.github.io/cnc-turning.html</loc><lastmod>2026-09-19</lastmod><priority>0.6</priority></url>
