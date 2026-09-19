@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sat, 19 Sep 2026 08:11:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:28:05 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Handheld vs Robotic Laser Welding: Which One Should Your Shop Buy?]]></title>
@@ -14,6 +14,14 @@
 <pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Process choice]]></category>
 <description><![CDATA[A buyer's guide to choosing between a handheld fiber laser welder and a robotic laser welding cell - where each pays off, what the decision turns on, and when a shop runs both.]]></description>
+</item>
+<item>
+<title><![CDATA[CNC Machining vs 3D Printing vs Injection Molding: Which Process for Your Part?]]></title>
+<link>https://gopetrel.github.io/blog/cnc-vs-3d-printing-vs-injection-molding.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/cnc-vs-3d-printing-vs-injection-molding.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[CNC machining, 3D printing and injection molding each win at a different volume and geometry. How to pick the process that fits the part you actually have.]]></description>
 </item>
 <item>
 <title><![CDATA[Thread Production: Tapping, Thread Milling or Thread Rolling]]></title>
