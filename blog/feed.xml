@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sat, 19 Sep 2026 08:28:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:50:14 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Handheld vs Robotic Laser Welding: Which One Should Your Shop Buy?]]></title>
@@ -86,6 +86,30 @@
 <pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Process choice]]></category>
 <description><![CDATA[Cut-edge quality, kerf, thickness window and cost per part decide between laser, plasma and waterjet. How to pick the process for a sheet metal part.]]></description>
+</item>
+<item>
+<title><![CDATA[Machining Thin-Walled Parts Without Them Moving]]></title>
+<link>https://gopetrel.github.io/blog/machining-thin-wall-parts.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/machining-thin-wall-parts.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[Thin walls deflect under the cutter, spring back after clamping and move again after heat treatment. Where the error comes from and how to design around it.]]></description>
+</item>
+<item>
+<title><![CDATA[Threaded Inserts: Assemblies That Survive Being Taken Apart]]></title>
+<link>https://gopetrel.github.io/blog/threaded-inserts-and-assembly.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/threaded-inserts-and-assembly.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[A thread cut directly into plastic or thin sheet will strip. Heat-set, moulded-in and press-in inserts, and how to choose the one the joint actually needs.]]></description>
+</item>
+<item>
+<title><![CDATA[Bend Allowance and Bend Deduction: Getting the Flat Pattern Right]]></title>
+<link>https://gopetrel.github.io/blog/sheet-metal-bend-allowance.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/sheet-metal-bend-allowance.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[The flat pattern is not the sum of the outside dimensions. How bend allowance, K-factor, bend deduction and springback decide whether a formed part fits.]]></description>
 </item>
 <item>
 <title><![CDATA[Fastener and Fitting Selection for Machined Assemblies]]></title>
