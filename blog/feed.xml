@@ -5,8 +5,40 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sat, 19 Sep 2026 04:20:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 04:29:31 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[Thread Production: Tapping, Thread Milling or Thread Rolling]]></title>
+<link>https://gopetrel.github.io/blog/thread-production-methods.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/thread-production-methods.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[Tapping, thread milling and thread rolling produce a thread three different ways. How the choice changes strength, tolerance, tool life and cost.]]></description>
+</item>
+<item>
+<title><![CDATA[Heat Treatment and Hardness: What to Specify and When to Machine]]></title>
+<link>https://gopetrel.github.io/blog/heat-treatment-and-hardness.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/heat-treatment-and-hardness.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Materials & finishes]]></category>
+<description><![CDATA[Hardness numbers, heat-treatment sequence and distortion: what to put on the drawing, and why the order of machining and treatment decides the tolerance.]]></description>
+</item>
+<item>
+<title><![CDATA[Designing Machined Parts for Tool Access]]></title>
+<link>https://gopetrel.github.io/blog/designing-for-tool-access.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/designing-for-tool-access.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[A feature a cutter cannot reach is a feature that costs money or cannot be made at all. How tool reach, pocket depth and radii decide the price of a part.]]></description>
+</item>
+<item>
+<title><![CDATA[From Prototype to Production: What Changes When a Machined Part Scales]]></title>
+<link>https://gopetrel.github.io/blog/prototype-to-production.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/prototype-to-production.html</guid>
+<pubDate>Sat, 19 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Sourcing & lead time]]></category>
+<description><![CDATA[The design that worked as a prototype is not automatically the design that ships. What changes at volume, and which decisions should be made before tooling.]]></description>
+</item>
 <item>
 <title><![CDATA[Fastener and Fitting Selection for Machined Assemblies]]></title>
 <link>https://gopetrel.github.io/blog/fastener-and-fitting-selection.html</link>
