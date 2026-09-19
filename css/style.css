@@ -139,6 +139,8 @@ nav.main a.active{color:var(--ink);font-weight:650}
 .tbl th,.tbl td{padding:13px 16px;text-align:left;border-bottom:1px solid var(--line-2);vertical-align:top}
 .tbl th{background:var(--bg-soft);font-weight:650;font-size:13.8px;letter-spacing:.02em;color:#33465c}
 .tbl tr:last-child td{border-bottom:0}
+/* mobile: let wide data tables scroll horizontally instead of breaking the layout */
+@media(max-width:660px){.tbl{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}}
 
 /* faq */
 .faq details{border:1px solid var(--line);border-radius:var(--radius-sm);padding:0;margin-bottom:10px;background:#fff;overflow:hidden}
@@ -220,8 +222,8 @@ form.rfq input:focus,form.rfq select:focus,form.rfq textarea:focus{outline:2px s
 .toc{border:1px solid var(--line);border-radius:var(--radius);padding:18px 22px;background:var(--bg-soft);margin:0 0 34px}
 .toc b{display:block;font-size:12.6px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
 .toc ol{margin:0;padding-left:20px;font-size:15px}
-.toc li{padding:3px 0}
-.toc a{color:#31435a}
+.toc li{padding:2px 0}
+.toc a{display:block;padding:5px 2px;color:#31435a}
 .toc a:hover{color:var(--brand)}
 
 /* ---- author box ---- */
