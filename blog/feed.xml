@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sun, 20 Sep 2026 05:40:45 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 11:21:03 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[CNC-Machined Prototypes as the Bridge to Injection-Molded Production]]></title>
@@ -30,6 +30,14 @@
 <pubDate>Sun, 20 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Process choice]]></category>
 <description><![CDATA[Why aftermarket spare parts and service kits are a different fulfilment problem from finished goods, and how a China-based 3PL partner handles SKU sprawl, slow movers, kitting and warranty returns.]]></description>
+</item>
+<item>
+<title><![CDATA[Selecting an Injection-Molding Resin: ABS, PC, PP, PA, POM, PMMA and TPE Compared]]></title>
+<link>https://gopetrel.github.io/blog/selecting-injection-molding-resin.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/selecting-injection-molding-resin.html</guid>
+<pubDate>Sun, 20 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Materials & finishes]]></category>
+<description><![CDATA[A buyer's guide to the seven resins a custom moulder will actually run - ABS, PC, PP, PA, POM, PMMA and TPE - with a comparison table and the questions to ask before you commit a tool.]]></description>
 </item>
 <item>
 <title><![CDATA[Handheld vs Robotic Laser Welding: Which One Should Your Shop Buy?]]></title>
