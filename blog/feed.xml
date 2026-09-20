@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sun, 20 Sep 2026 16:07:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 19:36:27 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Handing Your Contract-Manufacturing Output to a China 3PL: Production-to-Customer Fulfilment]]></title>
@@ -14,6 +14,14 @@
 <pubDate>Mon, 21 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Process choice]]></category>
 <description><![CDATA[A contract manufacturer's outbound shipping is a different problem from a brand's. How handing finished production and repeat orders to a China-based 3PL - free Shenzhen storage, 24h dispatch, 6-12 day global delivery, pre-shipment inspection - changes your cash cycle and your customer's experience.]]></description>
+</item>
+<item>
+<title><![CDATA[Designing the Induction and Diverter Ends of a Parcel Sortation Line]]></title>
+<link>https://gopetrel.github.io/blog/parcel-sortation-induction-diverter-design.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/parcel-sortation-induction-diverter-design.html</guid>
+<pubDate>Mon, 21 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[The sorter chassis gets the spec sheet, but induction and diverters decide whether it ever hits rated speed. A buyer's guide to manual vs automated feed, diverter families, layout patterns and the throughput chain that links them.]]></description>
 </item>
 <item>
 <title><![CDATA[CNC-Machined Prototypes as the Bridge to Injection-Molded Production]]></title>
