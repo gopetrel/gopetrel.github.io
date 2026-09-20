@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sun, 20 Sep 2026 11:21:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 13:42:00 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[CNC-Machined Prototypes as the Bridge to Injection-Molded Production]]></title>
@@ -38,6 +38,14 @@
 <pubDate>Sun, 20 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Materials & finishes]]></category>
 <description><![CDATA[A buyer's guide to the seven resins a custom moulder will actually run - ABS, PC, PP, PA, POM, PMMA and TPE - with a comparison table and the questions to ask before you commit a tool.]]></description>
+</item>
+<item>
+<title><![CDATA[Fiber Laser Welding Assist Gas: Nitrogen, Argon or Compressed Air?]]></title>
+<link>https://gopetrel.github.io/blog/fiber-laser-welding-assist-gas.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/fiber-laser-welding-assist-gas.html</guid>
+<pubDate>Sun, 20 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[The assist gas decides weld colour, spatter and cost as much as the laser does. A practical guide to choosing nitrogen, argon or compressed air for a fiber laser welding job - and when each one wins.]]></description>
 </item>
 <item>
 <title><![CDATA[Handheld vs Robotic Laser Welding: Which One Should Your Shop Buy?]]></title>
