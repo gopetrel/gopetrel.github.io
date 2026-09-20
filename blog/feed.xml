@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sun, 20 Sep 2026 01:25:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 03:03:21 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[CNC-Machined Prototypes as the Bridge to Injection-Molded Production]]></title>
@@ -14,6 +14,14 @@
 <pubDate>Sun, 20 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Sourcing & lead time]]></category>
 <description><![CDATA[Why machine a prototype before cutting a mold, what to validate, and the data package that lets a molding partner quote a tool you can actually run.]]></description>
+</item>
+<item>
+<title><![CDATA[Automating Outbound Sortation in a Contract Machine Shop]]></title>
+<link>https://gopetrel.github.io/blog/automated-sortation-machine-shop.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/automated-sortation-machine-shop.html</guid>
+<pubDate>Sun, 20 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[When a CNC job shop ships many part numbers to many destinations, manual sorting breaks. How cross-belt, narrow-belt and put-wall systems, plus singulation, fit a machining operation.]]></description>
 </item>
 <item>
 <title><![CDATA[Handheld vs Robotic Laser Welding: Which One Should Your Shop Buy?]]></title>
