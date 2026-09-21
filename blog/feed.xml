@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Mon, 21 Sep 2026 03:12:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 04:54:17 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Handing Your Contract-Manufacturing Output to a China 3PL: Production-to-Customer Fulfilment]]></title>
@@ -30,6 +30,14 @@
 <pubDate>Mon, 21 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Design & DFM]]></category>
 <description><![CDATA[Most molding problems are decided in the CAD file, not at the machine. A practical DFM checklist for draft, wall thickness, ribs and bosses, undercuts, gating and shrinkage before you cut a mold.]]></description>
+</item>
+<item>
+<title><![CDATA[Robot Laser Cutting System Buying Guide: What to Spec Before You Request a Quote]]></title>
+<link>https://gopetrel.github.io/blog/robot-laser-cutting-system-buying-guide.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/robot-laser-cutting-system-buying-guide.html</guid>
+<pubDate>Mon, 21 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[A robotic laser cutting system is an integration of robot, laser source, cutting head and fixturing. A buyer's guide to the factors that decide the specification, and how a cutting cell differs from a flatbed fiber laser.]]></description>
 </item>
 <item>
 <title><![CDATA[CNC-Machined Prototypes as the Bridge to Injection-Molded Production]]></title>
