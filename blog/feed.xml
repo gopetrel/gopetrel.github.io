@@ -5,8 +5,16 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Mon, 21 Sep 2026 04:54:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 04:39:17 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[Holding Tight Tolerances in Injection Molding: What Actually Controls the Spec]]></title>
+<link>https://gopetrel.github.io/blog/holding-tight-tolerances-in-injection-molding.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/holding-tight-tolerances-in-injection-molding.html</guid>
+<pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[On a mill the cutter is the tolerance; in molding the as-molded size is the drawing minus shrinkage, warped by how the plastic flowed. A practical look at what a molder controls to hold a tight tolerance, and how to specify one without overpaying.]]></description>
+</item>
 <item>
 <title><![CDATA[Handing Your Contract-Manufacturing Output to a China 3PL: Production-to-Customer Fulfilment]]></title>
 <link>https://gopetrel.github.io/blog/contract-manufacturing-fulfillment-china-3pl.html</link>
