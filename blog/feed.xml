@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Tue, 22 Sep 2026 04:39:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 12:29:28 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Holding Tight Tolerances in Injection Molding: What Actually Controls the Spec]]></title>
@@ -14,6 +14,14 @@
 <pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Design & DFM]]></category>
 <description><![CDATA[On a mill the cutter is the tolerance; in molding the as-molded size is the drawing minus shrinkage, warped by how the plastic flowed. A practical look at what a molder controls to hold a tight tolerance, and how to specify one without overpaying.]]></description>
+</item>
+<item>
+<title><![CDATA[Keeping a Parcel Sortation System Running: Maintenance, OEE and Uptime]]></title>
+<link>https://gopetrel.github.io/blog/sortation-system-maintenance-oee-uptime.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/sortation-system-maintenance-oee-uptime.html</guid>
+<pubDate>Tue, 22 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[A sorter's rated PPH is only reached if the line stays available. What actually fails on a sortation system, how to measure its OEE, and how to buy one that is cheap to keep running.]]></description>
 </item>
 <item>
 <title><![CDATA[Handing Your Contract-Manufacturing Output to a China 3PL: Production-to-Customer Fulfilment]]></title>
