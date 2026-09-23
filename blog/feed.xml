@@ -5,8 +5,16 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Tue, 22 Sep 2026 12:29:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 12:04:55 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[Fiber Laser Cutting Quality: Kerf, Edge Roughness and How to Specify a Cut]]></title>
+<link>https://gopetrel.github.io/blog/fiber-laser-cutting-quality-kerf-edge-tolerance.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/fiber-laser-cutting-quality-kerf-edge-tolerance.html</guid>
+<pubDate>Wed, 23 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[A fiber laser's rated speed is not the number that decides whether parts fit. What kerf, edge roughness, dross, the heat-affected zone and taper actually do to a cut, and how to write a cut specification a fabricator can meet.]]></description>
+</item>
 <item>
 <title><![CDATA[Holding Tight Tolerances in Injection Molding: What Actually Controls the Spec]]></title>
 <link>https://gopetrel.github.io/blog/holding-tight-tolerances-in-injection-molding.html</link>
