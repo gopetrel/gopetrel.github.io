@@ -5,8 +5,16 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Wed, 23 Sep 2026 12:04:55 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 10:11:02 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[Laser Cleaning and Marking in a Robotic Weld Cell: Prep the Surface, Then Prove the Weld]]></title>
+<link>https://gopetrel.github.io/blog/laser-cleaning-and-marking-in-weld-cell.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/laser-cleaning-and-marking-in-weld-cell.html</guid>
+<pubDate>Thu, 24 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[A robotic laser weld is only as good as the surface it starts on and as auditable as the mark it leaves. Why cleaning before the beam and marking after it belong inside the cell, how laser cleaning compares with grinding and chemicals, and what a fiber marker actually encodes.]]></description>
+</item>
 <item>
 <title><![CDATA[Fiber Laser Cutting Quality: Kerf, Edge Roughness and How to Specify a Cut]]></title>
 <link>https://gopetrel.github.io/blog/fiber-laser-cutting-quality-kerf-edge-tolerance.html</link>
