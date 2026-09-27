@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Sun, 27 Sep 2026 12:31:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 12:52:05 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Energy Use and Throughput Efficiency in Parcel Sortation: What the Drives Actually Cost to Run]]></title>
@@ -14,6 +14,14 @@
 <pubDate>Sun, 27 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Process choice]]></category>
 <description><![CDATA[A sorter runs 24/7, so the drive architecture is a real operating-cost line item. How servo, linear-motor, LSM and 24V DC drives compare on power, maintenance and throughput per watt.]]></description>
+</item>
+<item>
+<title><![CDATA[Gate and Runner Design in Injection Molding: Cold vs Hot Runners, Gate Location and Part Quality]]></title>
+<link>https://gopetrel.github.io/blog/injection-molding-gate-runner-design.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/injection-molding-gate-runner-design.html</guid>
+<pubDate>Sun, 27 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[Before a part can be moulded it has to be filled, and how the plastic travels from the machine nozzle to the cavity decides weld lines, warpage, scrap and cycle time. Cold vs hot runners, gate type, gate location and mold-flow balancing explained for buyers and design engineers.]]></description>
 </item>
 <item>
 <title><![CDATA[CNC Machining vs Laser Cutting for Sheet Metal: Which Route for Your Part?]]></title>
