@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 20:00:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 21:19:33 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Injection Molding Cost Drivers: How to Read a Mold Quote Before You Commit]]></title>
@@ -22,6 +22,14 @@
 <pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Sourcing & lead time]]></category>
 <description><![CDATA[A China 3PL is a software integration before it is a shipping line. What store-to-warehouse API sync, real-time inventory, automated order routing and the tracking loop must do, and the failure modes to refuse.]]></description>
+</item>
+<item>
+<title><![CDATA[How to Scope a Robotic Laser Welding Cell: A Buyer's Checklist for Metal Fabricators]]></title>
+<link>https://gopetrel.github.io/blog/robotic-laser-welding-cell-scoping-checklist.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/robotic-laser-welding-cell-scoping-checklist.html</guid>
+<pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[Scoping a robotic laser welding cell is a system purchase, not a robot purchase. Decompose the cell, choose the axis architecture, compare laser vs TIG/MIG, and validate with a sample weld before you commit capital.]]></description>
 </item>
 <item>
 <title><![CDATA[Injection Molding Defects: Spotting and Preventing the Six That Reach a Customer]]></title>
