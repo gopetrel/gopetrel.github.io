@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 21:19:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:53:59 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Injection Molding Cost Drivers: How to Read a Mold Quote Before You Commit]]></title>
@@ -30,6 +30,14 @@
 <pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Process choice]]></category>
 <description><![CDATA[Scoping a robotic laser welding cell is a system purchase, not a robot purchase. Decompose the cell, choose the axis architecture, compare laser vs TIG/MIG, and validate with a sample weld before you commit capital.]]></description>
+</item>
+<item>
+<title><![CDATA[Precision CNC Machining for Frameless Shower Hardware: A Buyer's Guide to Hinges, Clamps & Fittings]]></title>
+<link>https://gopetrel.github.io/blog/precision-cnc-machined-frameless-shower-hardware.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/precision-cnc-machined-frameless-shower-hardware.html</guid>
+<pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[Frameless shower hardware is a precision-machined product, not a plumbing part. Understand the CNC process, material choice and QA that separate a real manufacturer from a trading company.]]></description>
 </item>
 <item>
 <title><![CDATA[Injection Molding Defects: Spotting and Preventing the Six That Reach a Customer]]></title>
