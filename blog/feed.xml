@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 17:19:47 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 20:00:08 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Injection Molding Cost Drivers: How to Read a Mold Quote Before You Commit]]></title>
@@ -14,6 +14,14 @@
 <pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
 <category><![CDATA[Sourcing & lead time]]></category>
 <description><![CDATA[A mold quote is a set of assumptions, not a price. Tool steel, cavitation, resin, volume and dual-plant sourcing move unit cost; lines every quote must answer.]]></description>
+</item>
+<item>
+<title><![CDATA[Integrating a China 3PL Into Your Fulfillment Stack: APIs, Real-Time Inventory Sync and Automated Order Routing]]></title>
+<link>https://gopetrel.github.io/blog/china-3pl-integration-order-routing.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/china-3pl-integration-order-routing.html</guid>
+<pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Sourcing & lead time]]></category>
+<description><![CDATA[A China 3PL is a software integration before it is a shipping line. What store-to-warehouse API sync, real-time inventory, automated order routing and the tracking loop must do, and the failure modes to refuse.]]></description>
 </item>
 <item>
 <title><![CDATA[Injection Molding Defects: Spotting and Preventing the Six That Reach a Customer]]></title>
