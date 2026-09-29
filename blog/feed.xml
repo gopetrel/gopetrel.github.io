@@ -5,8 +5,16 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Mon, 28 Sep 2026 23:53:59 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 16:42:30 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[Specifying Continuous-Flex Cables and Locking Connectors for CNC Machine Tools]]></title>
+<link>https://gopetrel.github.io/blog/continuous-flex-cables-locking-connectors-cnc.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/continuous-flex-cables-locking-connectors-cnc.html</guid>
+<pubDate>Wed, 30 Sep 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[The cable is the weak link in a moving CNC cell, not the spindle. Understand continuous-flex vs static cable, cable carriers, and the locking connectors that survive vibration.]]></description>
+</item>
 <item>
 <title><![CDATA[Injection Molding Cost Drivers: How to Read a Mold Quote Before You Commit]]></title>
 <link>https://gopetrel.github.io/blog/injection-molding-cost-drivers.html</link>
