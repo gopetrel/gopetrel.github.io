@@ -5,8 +5,16 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Tue, 29 Sep 2026 23:02:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 11:16:39 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title><![CDATA[Designing Machined Parts for Robotic Laser Welding: A DFM Checklist for Joint Geometry, Datums and Distortion]]></title>
+<link>https://gopetrel.github.io/blog/designing-machined-parts-robotic-laser-welding.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/designing-machined-parts-robotic-laser-welding.html</guid>
+<pubDate>Thu, 08 Oct 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[A DFM guide to designing machined parts for robotic laser welding: joint geometry, locating datums, distortion control and post-weld machining -- written for the drawing, not the robot.]]></description>
+</item>
 <item>
 <title><![CDATA[Specifying Continuous-Flex Cables and Locking Connectors for CNC Machine Tools]]></title>
 <link>https://gopetrel.github.io/blog/continuous-flex-cables-locking-connectors-cnc.html</link>
