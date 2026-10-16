@@ -5,7 +5,7 @@
 <link>https://gopetrel.github.io/</link>
 <description><![CDATA[Precision CNC machining and fabrication - milling, turning, 5-axis, EDM and sheet metal, with inspection reports that travel with the parts.]]></description>
 <language>en</language>
-<lastBuildDate>Wed, 15 Oct 2026 09:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 09:00:00 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title><![CDATA[Custom Plastic Toys, OEM or ODM? What to Specify Before You Ask for a Quote]]></title>
@@ -447,5 +447,7 @@
 <category><![CDATA[Design & DFM]]></category>
 <description><![CDATA[Set tolerances feature by feature so you only pay for the precision the part actually needs.]]></description>
 </item>
-</channel>
+    <item><title>Dropshipping Fulfillment Partner: What to Ask Before You Sign a Contract</title><link>https://gopetrel.github.io/blog/dropshipping-fulfillment-partner-what-to-ask.html</link><guid isPermaLink="true">https://gopetrel.github.io/blog/dropshipping-fulfillment-partner-what-to-ask.html</guid><pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate><category>Sourcing &amp; lead time</category><description><![CDATA[A fulfillment partner is a supplier relationship, not a service purchase. The questions that separate an operator who scales with your store from one who fails quietly in month four.]]></description></item>
+    <item><title>Laser Welding Robot Price: What Actually Drives the Cost of a Cell</title><link>https://gopetrel.github.io/blog/laser-welding-robot-price-what-drives-cost.html</link><guid isPermaLink="true">https://gopetrel.github.io/blog/laser-welding-robot-price-what-drives-cost.html</guid><pubDate>Fri, 16 Oct 2026 09:00:00 GMT</pubDate><category>Process</category><description><![CDATA[Quotations vary by a factor of three for identical-looking systems, because the source, robot, fixturing and integration scope are priced separately.]]></description></item>
+  </channel>
 </rss>
