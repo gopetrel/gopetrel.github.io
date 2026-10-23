@@ -8,6 +8,38 @@
 <lastBuildDate>Fri, 16 Oct 2026 09:00:00 GMT</lastBuildDate>
 <atom:link href="https://gopetrel.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title><![CDATA[CNC Machined Shower Hardware: The Tolerance Stack That Keeps the Door Sealed]]></title>
+<link>https://gopetrel.github.io/blog/cnc-machined-shower-hardware-tolerances.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/cnc-machined-shower-hardware-tolerances.html</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+<category><![CDATA[Design & DFM]]></category>
+<description><![CDATA[A shower door that leaks is a shower door that was not specified to the tolerance stack that keeps it sealed - the sum of glass thickness, seal compression, hinge clearance and swing.]]></description>
+</item>
+<item>
+<title><![CDATA[CNC or Injection Moulding for Prototype Parts: The Decision That Sets Your Lead Time]]></title>
+<link>https://gopetrel.github.io/blog/injection-moulding-or-cnc-for-prototype-parts.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/injection-moulding-or-cnc-for-prototype-parts.html</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[The choice between CNC machining and injection moulding for a prototype part is not a quality choice - it is a lead time choice. What each route actually costs in weeks and tooling.]]></description>
+</item>
+<item>
+<title><![CDATA[Laser Welding vs CNC Machining for Sheet Metal Assemblies: The Assembly Step That Changes the Finish]]></title>
+<link>https://gopetrel.github.io/blog/laser-welding-vs-cnc-machining-for-sheet-metal-assemblies.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/laser-welding-vs-cnc-machining-for-sheet-metal-assemblies.html</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+<category><![CDATA[Process choice]]></category>
+<description><![CDATA[The choice between laser welding and CNC machining for a sheet metal assembly is not a strength choice - it is a finish choice, and the weld bead is what changes it.]]></description>
+</item>
+<item>
+<title><![CDATA[Thermal Spray vs Powder Coating for Industrial Machinery Parts]]></title>
+<link>https://gopetrel.github.io/blog/thermal-spray-vs-powder-coating.html</link>
+<guid isPermaLink="true">https://gopetrel.github.io/blog/thermal-spray-vs-powder-coating.html</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+<category><![CDATA[Materials & finishes]]></category>
+<description><![CDATA[Two finishes that look very different in the shop but are often chosen for the same reason: to make a part last longer. The wrong choice costs a recoat cycle you did not plan for.]]></description>
+</item>
+<item>
 <title><![CDATA[Custom Plastic Toys, OEM or ODM? What to Specify Before You Ask for a Quote]]></title>
 <link>https://gopetrel.github.io/blog/custom-plastic-toys-oem-odm-what-to-specify.html</link>
 <guid isPermaLink="true">https://gopetrel.github.io/blog/custom-plastic-toys-oem-odm-what-to-specify.html</guid>
